@@ -1,4 +1,0 @@
-roboteq/roboteq_diagnostics
-/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_diagnostics/share/roboteq_diagnostics/cmake/roboteq_diagnosticsConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/roboteq_diagnostics/cmake/roboteq_diagnosticsConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_diagnostics/share/roboteq_diagnostics/cmake/roboteq_diagnosticsConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/roboteq_diagnostics/cmake/roboteq_diagnosticsConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_diagnostics/lib/pkgconfig/roboteq_diagnostics.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/roboteq_diagnostics.pc

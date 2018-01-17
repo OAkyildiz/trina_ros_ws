@@ -1,5 +1,0 @@
-reflex/reflex_visualizer
-/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_visualizer/share/reflex_visualizer/cmake/reflex_visualizerConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/reflex_visualizer/cmake/reflex_visualizerConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_visualizer/share/reflex_visualizer/cmake/reflex_visualizerConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/reflex_visualizer/cmake/reflex_visualizerConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_visualizer/lib/reflex_visualizer/hand_visualizer /home/oakyildiz/workspaces/trina_ws/devel/lib/reflex_visualizer/hand_visualizer
-/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_visualizer/lib/pkgconfig/reflex_visualizer.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/reflex_visualizer.pc

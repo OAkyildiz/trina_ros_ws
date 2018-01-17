@@ -1,5 +1,0 @@
-baxter/baxter_tools
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_tools/share/baxter_tools/cmake/baxter_toolsConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_tools/share/baxter_tools/cmake/baxter_toolsConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_tools/lib/pkgconfig/baxter_tools.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/baxter_tools.pc
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_tools/lib/python2.7/dist-packages/baxter_tools/__init__.py /home/oakyildiz/workspaces/trina_ws/devel/lib/python2.7/dist-packages/baxter_tools/__init__.py

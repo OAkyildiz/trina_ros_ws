@@ -1,5 +1,0 @@
-baxter/baxter_simulator/baxter_gazebo
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_gazebo/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_gazebo/lib/libbaxter_gazebo_ros_control.so /home/oakyildiz/workspaces/trina_ws/devel/lib/libbaxter_gazebo_ros_control.so
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_gazebo/lib/pkgconfig/baxter_gazebo.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/baxter_gazebo.pc

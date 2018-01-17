@@ -1,5 +1,0 @@
-hstar_amp
-/home/oakyildiz/workspaces/trina_ws/devel/.private/hstar_amp/share/hstar_amp/cmake/hstar_ampConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/hstar_amp/cmake/hstar_ampConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/hstar_amp/share/hstar_amp/cmake/hstar_ampConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/hstar_amp/cmake/hstar_ampConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/hstar_amp/lib/pkgconfig/hstar_amp.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/hstar_amp.pc
-/home/oakyildiz/workspaces/trina_ws/devel/.private/hstar_amp/lib/python2.7/dist-packages/hstar_amp/__init__.py /home/oakyildiz/workspaces/trina_ws/devel/lib/python2.7/dist-packages/hstar_amp/__init__.py

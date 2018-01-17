@@ -1,5 +1,0 @@
-baxter/baxter_simulator/baxter_sim_hardware
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_hardware/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_hardware/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_hardware/lib/baxter_sim_hardware/baxter_emulator /home/oakyildiz/workspaces/trina_ws/devel/lib/baxter_sim_hardware/baxter_emulator
-/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_hardware/lib/pkgconfig/baxter_sim_hardware.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/baxter_sim_hardware.pc

@@ -1,4 +1,0 @@
-ebolabot
-/home/oakyildiz/workspaces/trina_ws/devel/.private/ebolabot/share/ebolabot/cmake/ebolabotConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/ebolabot/cmake/ebolabotConfig-version.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/ebolabot/share/ebolabot/cmake/ebolabotConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/ebolabot/cmake/ebolabotConfig.cmake
-/home/oakyildiz/workspaces/trina_ws/devel/.private/ebolabot/lib/pkgconfig/ebolabot.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/ebolabot.pc
