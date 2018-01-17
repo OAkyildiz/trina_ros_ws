@@ -1,0 +1,6 @@
+roboteq/roboteq_driver
+/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_driver/share/roboteq_driver/cmake/roboteq_driverConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/roboteq_driver/cmake/roboteq_driverConfig.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_driver/share/roboteq_driver/cmake/roboteq_driverConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/roboteq_driver/cmake/roboteq_driverConfig-version.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_driver/lib/libroboteq_driver_script.a /home/oakyildiz/workspaces/trina_ws/devel/lib/libroboteq_driver_script.a
+/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_driver/lib/roboteq_driver/driver_node /home/oakyildiz/workspaces/trina_ws/devel/lib/roboteq_driver/driver_node
+/home/oakyildiz/workspaces/trina_ws/devel/.private/roboteq_driver/lib/pkgconfig/roboteq_driver.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/roboteq_driver.pc

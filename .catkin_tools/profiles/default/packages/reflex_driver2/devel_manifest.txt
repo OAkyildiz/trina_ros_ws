@@ -1,0 +1,6 @@
+reflex/reflex_driver2
+/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_driver2/share/reflex_driver2/cmake/reflex_driver2Config-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/reflex_driver2/cmake/reflex_driver2Config-version.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_driver2/share/reflex_driver2/cmake/reflex_driver2Config.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/reflex_driver2/cmake/reflex_driver2Config.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_driver2/lib/libreflex_hand2.so /home/oakyildiz/workspaces/trina_ws/devel/lib/libreflex_hand2.so
+/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_driver2/lib/pkgconfig/reflex_driver2.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/reflex_driver2.pc
+/home/oakyildiz/workspaces/trina_ws/devel/.private/reflex_driver2/lib/reflex_driver2/reflex_driver_node2 /home/oakyildiz/workspaces/trina_ws/devel/lib/reflex_driver2/reflex_driver_node2

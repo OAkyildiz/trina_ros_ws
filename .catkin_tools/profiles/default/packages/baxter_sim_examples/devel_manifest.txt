@@ -1,0 +1,4 @@
+baxter/baxter_simulator/baxter_sim_examples
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_examples/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig-version.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_examples/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_sim_examples/cmake/baxter_sim_examplesConfig.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_sim_examples/lib/pkgconfig/baxter_sim_examples.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/baxter_sim_examples.pc

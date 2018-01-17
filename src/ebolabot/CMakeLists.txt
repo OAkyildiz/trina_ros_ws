@@ -5,7 +5,8 @@ project(ebolabot)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  reflex_sf
+  reflex
+  reflex_msgs
   baxter_interface
   hstar_amp
 )

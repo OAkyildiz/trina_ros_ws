@@ -1,0 +1,4 @@
+baxter/baxter_common/baxter_description
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_description/cmake/baxter_descriptionConfig.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_description/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake /home/oakyildiz/workspaces/trina_ws/devel/share/baxter_description/cmake/baxter_descriptionConfig-version.cmake
+/home/oakyildiz/workspaces/trina_ws/devel/.private/baxter_description/lib/pkgconfig/baxter_description.pc /home/oakyildiz/workspaces/trina_ws/devel/lib/pkgconfig/baxter_description.pc
