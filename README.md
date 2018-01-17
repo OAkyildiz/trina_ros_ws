@@ -9,3 +9,5 @@ collection of ROS dependencies as modules for the trina motion software
 5. roboteq        (module): diagnostic tools
 
 * dynamixel_motor is a part of canon ROS, acquire it by "sudo apt-get install ros-<version>-dynamixel-motor" 
+  
+TODO: reflex-ros-pkg's CMakeLists are outdated and needs to be modified (gencpp is obsoloate?) followed by a merge request.
