@@ -34,3 +34,7 @@
 	path = src/hstar_amp
 	url = https://bitbucket.com/OAkyildiz/hstar_amp.git
 	branch = master
+[submodule "src/dynamixel_motor"]
+	path = src/dynamixel_motor
+	url = https://github.com/RightHandRobotics/dynamixel_motor
+	branch = master

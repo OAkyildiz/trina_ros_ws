@@ -1,0 +1,28 @@
+<launch>
+    <arg name="side" default="left"/>
+    <arg if="$(eval side=='left')" 		name="hand" 		value="hand_left"/>
+    <arg if="$(eval side=='right')"  	name="hand" 		value="hand_right"/>
+    <arg unless="$(eval side=='right' or side=='left')"  	name="hand"  value="$(arg side)"/>
+    <!-- The latest reflex_sf rosbag gets stored in the bagfiles folder -->
+    <!-- Play this file bag, rename it to save it, or use it for debugging as desired -->
+    <node name="dynamixel_manager_$(arg hand)" pkg="dynamixel_controllers" type="controller_manager.py" required="false" output="screen">
+        <rosparam>
+            namespace: dxl_manager
+            serial_ports:
+                $(arg hand)_port:
+                    port_name: "/dev/$(arg hand)"
+                    baud_rate: 57142
+                    min_motor_id: 1
+                    max_motor_id: 4
+                    update_rate: 20
+        </rosparam>
+    </node>
+    <rosparam file="$(find ebolabot)/yaml/reflex/$(arg hand).yaml" command="load"/>
+    <rosparam file="$(find ebolabot)/yaml/reflex/$(arg hand)_zero_points.yaml" command="load"/>
+    <node name="$(arg hand)_controller_spawner" pkg="dynamixel_controllers" type="controller_spawner.py"
+          args="--manager=dxl_manager
+                --port $(arg hand)_port 
+                $(arg hand)_f1 $(arg hand)_f2 $(arg hand)_f3 $(arg hand)_preshape"
+          output="screen"/>
+    <node name="$(arg hand)_controller" pkg="reflex" type="reflex_usb_hand.py" args="$(arg hand)" output="screen"/>
+</launch>
