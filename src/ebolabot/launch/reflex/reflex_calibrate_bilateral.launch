@@ -1,11 +1,12 @@
 <launch>
     <arg name="side" default="left">
-    <arg if="$(eval side==left)" 		name="hand" 		value="hand_left"/>
-    <arg if="$(eval side==right)"  	name="hand" 		value="hand_right"/>
+    <arg if="$(eval side==left)" 		name="hand" 		value="left_hand"/>
+    <arg if="$(eval side==right)"  	name="hand" 		value="right_hand"/>
     <arg unless="$(eval side==right||side==left)"  	name="hand"  value="$(arg side)"/>
 
-     <node name="dynamixel_manager_$(arg hand)" pkg="dynamixel_controllers" type="controller_manager.py" required="false" output="screen">
-        <rosparam>
+    <param name="usb_hand_type" type="string" value="reflex_sf" />
+    <node name="dynamixel_manager_$(arg hand)" pkg="dynamixel_controllers" type="controller_manager.py" required="false" output="screen">
+        <rosparam subst_value="true">
             namespace: dxl_manager
             serial_ports:
                 $(arg hand)_port:
@@ -16,8 +17,8 @@
                     update_rate: 20
         </rosparam>
     </node>
-    <rosparam file="$(find ebolabot)/yaml/reflex/$(arg hand).yaml" command="load"/>
-    <rosparam file="$(find ebolabot)/yaml/reflex/$(arg hand)_zero_points.yaml" command="load"/>
+    <rosparam subst_value="true" file="$(find ebolabot)/yaml/reflex/$(arg hand).yaml" command="load"/>
+    <rosparam subst_value="true" file="$(find ebolabot)/yaml/reflex/$(arg hand)_zero_points.yaml" command="load"/>
     <node name="$(arg hand)_controller_spawner" pkg="dynamixel_controllers" type="controller_spawner.py"
           args="--manager=dxl_manager
                 --port $(arg hand)_port 

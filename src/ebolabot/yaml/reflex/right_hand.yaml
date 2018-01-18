@@ -1,9 +1,9 @@
-hand_right_f1:
+right_hand_f1:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: hand_right_f1
+    joint_name: right_hand_f1
     motor_to_joint_inverted: False
     motor_to_joint_gear_ratio: 1.42
     default_motor_speed: 15.0
@@ -16,12 +16,12 @@ hand_right_f1:
         min: 0
         max: 28672
 
-hand_right_f2:
+right_hand_f2:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: hand_right_f2
+    joint_name: right_hand_f2
     motor_to_joint_inverted: False
     motor_to_joint_gear_ratio: 1.42
     default_motor_speed: 15.0
@@ -34,12 +34,12 @@ hand_right_f2:
         min: 0
         max: 28672
 
-hand_right_f3:
+right_hand_f3:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: hand_right_f3
+    joint_name: right_hand_f3
     motor_to_joint_inverted: False
     motor_to_joint_gear_ratio: 1.42
     default_motor_speed: 15.0
@@ -52,12 +52,12 @@ hand_right_f3:
         min: 0
         max: 28672
 
-hand_right_preshape:
+right_hand_preshape:
     controller:
         package: dynamixel_controllers
         module: joint_position_controller
         type: JointPositionController
-    joint_name: hand_right_preshape
+    joint_name: right_hand_preshape
     motor_to_joint_inverted: True
     motor_to_joint_gear_ratio: 1.5
     default_motor_speed: 4.5

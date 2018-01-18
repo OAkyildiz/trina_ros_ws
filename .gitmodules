@@ -28,7 +28,7 @@
 	branch = master
 [submodule "src/reflex"]
 	path = src/reflex
-	url = https://github.com/RightHandRobotics/reflex-ros-pkg.git
+	url = https://github.com/OAkyildiz/reflex-ros-pkg.git
 	branch = master
 [submodule "src/hstar_amp"]
 	path = src/hstar_amp
